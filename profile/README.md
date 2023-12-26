@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://ubos.tech">
-  <img src="https://github.com/UBOS-tech/.github/assets/41735477/349103bd-b430-466e-a2f3-e16e6ec462a7" alt="Appsmith Logo" width="100%">
+  <img src="https://github.com/UBOS-Asset-Store/.github/assets/41735477/a9bbac06-16cb-48e8-abc7-a997368dd913" alt="Appsmith Logo" width="100%">
 </a>
 </p>
 
